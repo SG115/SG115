@@ -37,16 +37,16 @@ I am a Competitive Programmer and a Full Stack Developer <img src="https://media
 </p>
 
 ---
-### 📫 How to reach me:
+### 📫 Connect with Me :
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sg115/)  &nbsp; 
-<a href="mailto:shikhargupta115@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sg115/)  &nbsp; 
+  <a href="mailto:shikhargupta115@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SG115&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SG115&include_all_commits=true&count_private=true&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SG115&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SG115&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/SG115/github-readme-stats)
+  
 ---
