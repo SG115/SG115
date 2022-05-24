@@ -13,7 +13,7 @@ I am a Competitive Programmer and a Full Stack Developer <img src="https://media
 
 - 🔭 I’m contributing to frontend and backend for building web applications.
 - 🌱 Exploring Data Mining Concepts.
-- ⚡ In my free time I mostly watch Animes but sometimes do some [Leetcode](https://leetcode.com/SG1155/) :)
+- ⚡ In my free time I mostly watch Animes but sometimes do some Leetcode :)
 
 ---
 
